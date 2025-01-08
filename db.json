@@ -1,0 +1,68 @@
+{
+  "contact": [
+    {
+      "name": "John Smith",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "phone": "+1 555-666-7788",
+      "email": "johnsmith@gmail.com",
+      "id": "sdf345"
+    },
+    {
+      "id": "abc123",
+      "name": "Alice Johnson",
+      "position": "Software Engineer",
+      "company": "TechHub",
+      "phone": "+1 555-123-4567",
+      "email": "alicejohnson@techhub.com"
+    },
+    {
+      "id": "xyz789",
+      "name": "Michael Brown",
+      "position": "Product Designer",
+      "company": "Creative Minds",
+      "phone": "+1 555-789-1011",
+      "email": "michaelbrown@mail.com"
+    },
+    {
+      "id": "lmn456",
+      "name": "Sophia White",
+      "position": "Data Scientist",
+      "company": "DataWorks",
+      "phone": "+1 555-444-5566",
+      "email": "sophiawhite@dataworks.com"
+    },
+    {
+      "id": "ghi012",
+      "name": "Chris Adams",
+      "position": "HR Specialist",
+      "company": "HumanEdge",
+      "phone": "+1 555-333-2211",
+      "email": "chrisadams@humanedge.com"
+    },
+    {
+      "id": "bcd678",
+      "name": "Laura Green",
+      "position": "Operations Director",
+      "company": "GlobalConnect",
+      "phone": "+1 533-555-8899",
+      "email": "lauragreen@mail.com"
+    },
+    {
+      "id": "efg910",
+      "name": "David Clark",
+      "position": "Cybersecurity Analyst",
+      "company": "SecureNet",
+      "phone": "+1 531-222-3344",
+      "email": "davidclark@securenet.com"
+    },
+    {
+      "id": "hij112",
+      "name": "Emma Lewis",
+      "position": "UX Researcher",
+      "company": "UserFirst",
+      "phone": "+1 536-111-2233",
+      "email": "emmalewis@userfirst.com"
+    }
+  ]
+}
