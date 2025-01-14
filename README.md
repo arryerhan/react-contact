@@ -18,3 +18,20 @@
 - JSON-Server: Fake backend API server for handling CRUD operations.
 - React-Icons: Icons for actions like editing, deleting, and adding.
 - Sass: CSS preprocessor for styling.
+
+  ## Screenshots
+  
+![screen01](https://github.com/user-attachments/assets/24dc5b5d-a312-4122-97c7-bcc9536ee795)
+
+![screen02](https://github.com/user-attachments/assets/3c5d5244-2ae8-499f-add8-ee675b66ff63)
+
+
+
+
+
+
+
+
+
+
+  
